@@ -16,8 +16,8 @@ class Programmer
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
-<img align="center" alt="python" src="https://img.shields.io/badge/python-CC342D?style=for-the-badge&logo=python&logoColor=white" />  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
+	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
           
 
