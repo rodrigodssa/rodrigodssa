@@ -1,5 +1,11 @@
-# Olá, me chamo Rodrigo Almeida ! 
-## Bem vindo ao meu perfil GitHub 👋
+<h1 align="center">👋 Olá, eu sou Rodrigo Almeida </h1>
+
+
+
+
+
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+ 
 
 ```python
 class Programmer
