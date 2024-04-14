@@ -1,4 +1,5 @@
-<h1 align="center">👋 Olá, eu sou Rodrigo Almeida </h1>
+<h1 align="center">
+	👋 Olá, eu sou Rodrigo Almeida </h1>
 
 
 
@@ -22,6 +23,16 @@ class Programmer
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
+
+
+
+
+
+
+
+
+
+
 	
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,linux)](https://skillicons.dev)
 
