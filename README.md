@@ -13,8 +13,7 @@ class Programmer
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-almeida-b22219212/) 
-<a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rodrigodssalmeida@gmail.com" alt="Gmail"/></a>
+
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
