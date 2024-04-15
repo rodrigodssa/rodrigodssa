@@ -13,6 +13,8 @@ class Programmer
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-almeida-b22219212/) 
+<a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" alt="Gmail"/></a>
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
@@ -28,8 +30,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,linux)](https://skillicons.dev)<br><br>
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,linux,)](https://skillicons.dev)<br><br>
 
 </div><br/>
 ## Trasformando paixao em código, um commit de cada vez.
