@@ -29,7 +29,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,linux,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,linux,pycharm)](https://skillicons.dev)<br><br>
 
 </div><br/>
 ## Trasformando paixao em código, um commit de cada vez.
