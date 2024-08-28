@@ -12,8 +12,8 @@ class Programmer
 ```
 <br>
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
 
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodssa&show_icons=true&theme=dark)
 
 <h3 align="left">Basic skills:</h3>
