@@ -14,7 +14,7 @@ class Programmer
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodssa&show_icons=true&theme=dark)
+
 
 <h3 align="left">Basic skills:</h3>
 <div style="display: inline_block"><br>
@@ -31,6 +31,10 @@ class Programmer
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodssa&show_icons=true&theme=dark)
+
+
 
 
 <p align="left">
