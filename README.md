@@ -1,7 +1,7 @@
 <h1 align="center">  Bem vindo ao meu perfil </h1>
 
 ## 🚀 Sobre mim 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades Graduando em Análise e Desenvolvimento de Sistemas**.**Sempre aprendendo** e buscando evolução contínua como profissional. 
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Sou graduando em Análise e Desenvolvimento de Sistemas, sempre aprendendo e buscando evolução contínua como profissional.
  
 ---
      
