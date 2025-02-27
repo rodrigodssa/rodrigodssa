@@ -1,15 +1,11 @@
-<h1 align="center">
-	👋 Welcome to my profile !! </h1>
+<h1 align="center">  Bem vindo ao meu perfil </h1>
 
-
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+## 🚀 Sobre mim 
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades Graduando em Análise e Desenvolvimento de Sistemas**.**Sempre aprendendo** e buscando evolução contínua como profissional. 
  
 ---
-
-## 🚀 Sobre mim  
-  - **Graduando em Análise e Desenvolvimento de Sistemas** em Rio de janeiro, RJ.
      
-  - **Tecnologias que utilizo no backend**:
+## 💻 Tecnologias que utilizo no backend
   - **Java**
   - **Python**  
   - **Django**  
@@ -18,7 +14,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar sol
   - **MySQL**
   - **PostgreSQL**
   - **Docker**   
-  - **Sempre aprendendo** e buscando evolução contínua como profissional.  
+     
 
 ---
 
@@ -31,7 +27,7 @@ class Programmer
 
 ---
 
-<h3 align="left">Basic skills:</h3>
+## 🛠️ Ferramentas
 Aqui estão algumas das ferramentas e tecnologias que utilizo no dia a dia e em projetos pessoais: 
 <div style="display: inline_block"><br>
 
@@ -78,9 +74,8 @@ Confira algumas **métricas do meu perfil**:
 
 ---
 
-<p align="left">
-    <h3 align="left">Connect with me:</h3>
-	
+## 📬 Contato 
+ 
  Sinta-se à vontade para entrar em contato comigo.
 	
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rodrigo_dvs./)
