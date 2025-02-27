@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=green&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+Almeida;Prazer+em+te+conhecer!+:%29)](https://git.io/typing-svg)
+
 
 
 <h1 align="center">  Bem vindo ao meu perfil </h1>
