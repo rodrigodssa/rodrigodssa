@@ -1,17 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+Almeida;Prazer+em+te+conhecer!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Almeida;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 
 
 
 
-## 🚀 Sobre mim 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Sou graduando em Análise e Desenvolvimento de Sistemas, sempre aprendendo e buscando evolução contínua como profissional.
+## 🚀 **About Me**  
+
+I am a Software Developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always seeking new challenges to expand my knowledge and skills. I am pursuing a degree in Systems Analysis and Development, constantly learning and striving for continuous professional growth.
  
 ---
      
-## 💻 Tecnologias que utilizo no backend
+## 💻 **Technologies I Use in Backend**
   - **Java**
   - **Python**  
   - **Django**  
@@ -33,8 +34,8 @@ class Programmer
 
 ---
 
-## 🛠️ Ferramentas
-Aqui estão algumas das ferramentas e tecnologias que utilizo no dia a dia e em projetos pessoais: 
+## 🛠️ **Tools**  
+Here are some of the tools and technologies I use daily and in personal projects:
 <div style="display: inline_block"><br>
 
 
@@ -63,8 +64,8 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no dia a dia e em 
 
 ---
 
-## 📈 Minhas Contribuições  
-Confira algumas **métricas do meu perfil**:  
+## 📈 **My Contributions**  
+Check out some **metrics from my profile**: 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
 
@@ -72,17 +73,17 @@ Confira algumas **métricas do meu perfil**:
 
 ---
 
-## 🌟 Meus Objetivos
+## 🌟**My Goals**  
 
-- Desenvolver **APIs robustas** para integração com sistemas externos.
-- Evoluir como programador e aperfeiçoar minhas habilidades constantemente.
-- Ampliar meu conhecimento no universo da tecnologia.
+- Develop **robust APIs** for integration with external systems.  
+- Grow as a programmer and constantly improve my skills.  
+- Expand my knowledge in the world of technology.
 
 ---
 
-## 📬 Contato 
- 
- Sinta-se à vontade para entrar em contato comigo.
+## 📬 **Contact**  
+
+Feel free to get in touch with me.
 	
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rodrigo_dvs./)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigoodvs@gmail.com)
