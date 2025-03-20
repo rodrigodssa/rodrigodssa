@@ -17,14 +17,15 @@ I am a Software Developer passionate about technology, focused on creating innov
   - **Spring Boot**
   - **APIs REST**
   - **Docker**
-  - **AWS**  
+  - **AWS**
+  - **PostgreSQL**
+  - **MongoDB**
+  - **MySQL**  
   - **Python**  
   - **Django**  
   - **Django Rest Framework (DRF)**
   - **FastAPI**
-  - **MySQL**
-  - **MongoDB**
-  - **PostgreSQL**
+  
   
      
 
