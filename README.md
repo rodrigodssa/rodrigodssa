@@ -15,6 +15,9 @@ I am a Software Developer passionate about technology, focused on creating innov
 ## 💻 **Technologies I Use in Backend**
   - **Java**
   - **Spring Boot**
+  - **APIs REST**
+  - **Docker**
+  - **AWS**  
   - **Python**  
   - **Django**  
   - **Django Rest Framework (DRF)**
@@ -22,7 +25,7 @@ I am a Software Developer passionate about technology, focused on creating innov
   - **MySQL**
   - **MongoDB**
   - **PostgreSQL**
-  - **Docker**   
+  
      
 
 ---
