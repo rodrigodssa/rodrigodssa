@@ -8,7 +8,10 @@
 
 ## 🚀 **About Me**  
 
-I am a Software Developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always seeking new challenges to expand my knowledge and skills. I am pursuing a degree in Systems Analysis and Development, constantly learning and striving for continuous professional growth.
+👨‍💻 I'm a Software Developer passionate about technology and committed to building innovative and impactful solutions.
+🎓 I hold a degree in Systems Analysis and Development.
+🚀 With a solid foundation in programming and a curious mindset, I'm always exploring new technologies and challenges to grow professionally.
+📚 Lifelong learner, focused on continuous improvement and clean, efficient code.
  
 ---
      
