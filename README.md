@@ -18,10 +18,13 @@
 ## 💻 **Technologies I Use in Backend**
   - **Java**
   - **Spring Boot**
-  - **APIs REST**
+  - **RESTful APIs**
+  - **PostgreSQL**
   - **Docker**
   - **AWS**
-  - **PostgreSQL**
+  - **Kafka**
+  - **CI/CD**
+  - **Microservices**  
   - **MongoDB**
   - **MySQL**  
   - **Python**  
