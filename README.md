@@ -49,12 +49,12 @@ Sou **Desenvolvedor Full Stack com foco em Java**, formado em **Análise e Desen
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![IntelliJ IDEA CE](https://img.shields.io/badge/-IntelliJ%20IDEA%20CE-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![PyCharm CE](https://img.shields.io/badge/-PyCharm%20CE-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA CE](https://img.shields.io/badge/-IntelliJ%20IDEA%20CE-FE315D?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm CE](https://img.shields.io/badge/-PyCharm%20CE-21D789?style=flat-square&logo=pycharm&logoColor=white)
 
 ---
 
