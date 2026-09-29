@@ -1,108 +1,101 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Almeida;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Rodrigo+Almeida+%F0%9F%91%8B;Desenvolvedor+Java+Full+Stack;Prazer+em+te+conhecer!)](https://git.io/typing-svg)
 
+</div>
 
+## 🚀 Sobre mim
 
+Sou **Desenvolvedor Full Stack com foco em Java**, formado em **Análise e Desenvolvimento de Sistemas**, e gosto de transformar problemas reais em software limpo, testável e fácil de manter.
 
-## 🚀 **About Me**  
-
-👨‍💻 I'm a Software Developer passionate about technology and committed to building innovative and impactful solutions.
-🎓 I hold a degree in Systems Analysis and Development.
-🚀 With a solid foundation in programming and a curious mindset, I'm always exploring new technologies and challenges to grow professionally.
-📚 Lifelong learner, focused on continuous improvement and clean, efficient code.
- 
----
-     
-## 💻 **Technologies I Use in Backend**
-  - **Java**
-  - **Spring Boot**
-  - **RESTful APIs**
-  - **PostgreSQL**
-  - **Docker**
-  - **AWS**
-  - **Kafka**
-  - **CI/CD**
-  - **Microservices**  
-  - **MongoDB**
-  - **MySQL**  
-  - **Python**  
-  - **Django**  
-  - **Django Rest Framework (DRF)**
-  - **FastAPI**
-  
-  
-     
+- 🎯 Foco em **APIs REST robustas** e integração entre sistemas
+- 🧹 Código legível, com regras de negócio claras e testes automatizados
+- 🌱 Aprendo rápido, gosto de desafios novos e trabalho bem em equipe
+- 🤝 Comunico com clareza e priorizo entregar valor, não só código
 
 ---
 
-```python
-class Programmer
+## 💻 Stack
 
-	def initialize() 
-```
-<br>
+**Back-end**
 
----
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## 🛠️ **Tools**  
-Here are some of the tools and technologies I use daily and in personal projects:
-<div style="display: inline_block"><br>
+**Bancos de dados**
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Backend:**  
+**Infraestrutura e arquitetura**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+**Front-end**
 
-**Front-end:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript) 
+**Ferramentas**
 
-**Ferramentas & Versionamento:**  
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-
----
-
-## 📈 **My Contributions**  
-Check out some **metrics from my profile**: 
-
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodssa&show_icons=true&theme=dark)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌟**My Goals**  
+## 📌 Projeto em destaque
 
-- Develop **robust APIs** for integration with external systems.  
-- Grow as a programmer and constantly improve my skills.  
-- Expand my knowledge in the world of technology.
+### [📚 biblioteca-api](https://github.com/rodrigodssa/biblioteca-api)
+
+API REST para gestão de biblioteca, construída com **Java, Spring Boot e PostgreSQL**.
+
+- CRUD completo com regras de negócio
+- Autenticação e autorização por papéis com **Spring Security**
+- **Testes automatizados**
+- Documentação interativa com **Swagger**
 
 ---
 
-## 📬 **Contact**  
+## 📈 Métricas do perfil
 
-Feel free to get in touch with me.
-	
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rodrigo_dvs./)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigoodvs@gmail.com)
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rodrigodssa&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodssa&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🌟 Objetivos
+
+- Desenvolver **APIs robustas** para integração com sistemas externos
+- Evoluir continuamente como programador, com foco em qualidade e boas práticas
+- Ampliar meu conhecimento em arquitetura, nuvem e mensageria
+
+---
+
+## 📬 Contato
+
+Vamos conversar? Fico feliz em trocar ideias, colaborar em projetos ou contribuir com o seu time.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-dssalmeida/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoodvs@gmail.com)
 
+<div align="center">
 
-</div><br/>
- 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=80&section=footer)
 
-
+</div>
